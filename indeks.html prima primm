@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>profil saya - prima</title>
-    <link rel="stylesheet" href="style.css">
+        <title>Profil Saya - Prima</title>
+        <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <div class="kartu-profil">
-        <img src="foto-profil.jpg" alt="foto profil saya">
-        
-        <h1>Nama lengkap anda</h1>
-        <p>siswa SMA yang tertarik dengan teknologi dan desain. selamat datang di website pertama saya!</p>
-        <a href="https://www.instagram.com/usernameanda">kunjungi instagram saya</a>
-        <button id="sapaButton">sapa saya!</button>
-    </div>
-    
-    <script src="script.js"></script>
+<body>  
+        <div class="kartu-profil"> 
+        <img src="" alt="Foto profil saya">
+        <h1>Muhammad Prima Maulida</h1>
+        <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+        <a href="https://www.instagram.com/prima">Kunjungi Instagram Saya</a>
+        <button id="sapaButton">Sapa Aku!</button>
+   </div>
+<script src="script.js"></script>
 </body>
 </html>
+
 
 
 
