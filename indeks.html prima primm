@@ -5,13 +5,13 @@
         <link rel="stylesheet" href="style.css">
 </head>
 <body>
-        <div class="kartu-profil">
+      <div class="kartu-profil">
         <img scr="foto-profil.jpg' alt="foto profil saya">
         <h1>Nama lengkap anda</h1>
         <p>sisswa SMA yang tertarik dengan teknologi dan desain. selamat datang di website pertama saya!</p>
         <a href="https://www.instagram.com/usernameanda">kunjungi instagram saya</a>
-<button id="sapabutton">sapa saya!</button>
-   </div>
+        <button id="sapabutton">sapa saya!</button>
+     </div>
 <script scr="script.js"></script>
 </body>
 </html>
